@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: TrainerBook
+## Notes: Class spells by level and profession recipes by skill, with trainer costs recorded in game.
+## Author: Jakob
+## Version: 0.1.0
+## SavedVariables: TrainerBookDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## AddonCompartmentFunc: TrainerBook_OnAddonCompartmentClick
+
+Core.lua
+Data\Classes.lua
+Data\Professions.lua
+Scan.lua
+Data.lua
+UI\Widgets.lua
+UI\MainFrame.lua
+UI\ClassTab.lua
+UI\ProfTab.lua
